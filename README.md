@@ -1,7 +1,7 @@
-## Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answering
+# Geometric Analysis of Reasoning Trajectories: A Phase Space Approach to Understanding Valid and Invalid Multi-Hop Reasoning in LLMs
 
 ## Overview
-This repository contains the research paper and accompanying code for the study "Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answering" by Javier Marín. The project introduces an innovative framework that applies principles from Hamiltonian mechanics and differential geometry to analyze and optimize reasoning processes in AI systems, particularly focusing on multi-hop question answering tasks.
+This repository contains the research paper and accompanying code for the study "Geometric Analysis of Reasoning Trajectories: A Phase Space Approach to Understanding Valid and Invalid Multi-Hop Reasoning in LLMs" by Javier Marín. The project introduces an innovative framework that applies principles from Hamiltonian mechanics and differential geometry to analyze and optimize reasoning processes in AI systems, particularly focusing on multi-hop question answering tasks.
 
 ## Contents
 Optimizing AI reasoning.pdf: The full research paper detailing the theoretical framework, methodology, results, and discussions.
