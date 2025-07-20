@@ -1,5 +1,17 @@
 # Geometric Analysis of Reasoning Trajectories: A Phase Space Approach to Understanding Valid and Invalid Multi-Hop Reasoning in LLMs
 
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+"></td>
+<td><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></td>
+</tr>
+</table>
+
+<div align="center">
+  <img width="800" height="700" alt="Hamiltonian Systems" src="Images/HamiltonianSystems.png" />
+</div>
+
+
 ## Overview
 This repository contains the research paper and accompanying code for the study "Geometric Analysis of Reasoning Trajectories: A Phase Space Approach to Understanding Valid and Invalid Multi-Hop Reasoning in LLMs" by Javier Marín. The project introduces an innovative framework that applies principles from Hamiltonian mechanics and differential geometry to analyze and optimize reasoning processes in AI systems, particularly focusing on multi-hop question answering tasks.
 
